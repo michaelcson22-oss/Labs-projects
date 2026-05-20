@@ -1,6 +1,6 @@
 # TryHackMe — Cybersecurity 101 Path
 
-**Completed:** May 2026  
+**Completed:** May 15, 2026  
 **Platform:** [TryHackMe](https://tryhackme.com)  
 **Profile:** [michaelcson22](https://tryhackme.com/p/michaelcson22)
 
@@ -40,5 +40,7 @@ environments.
 ---
 
 ## Proof of Completion
-
-![Completion Badge](screenshots/completion-badge.png)
+**Certificate ID:** THM-L39RQI5QRV
+**Completed:* May 15, 2026
+**Duration:** 45 hours 23 minutes
+![Completion Badge](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-L39RQI5QRV.pdf) 
