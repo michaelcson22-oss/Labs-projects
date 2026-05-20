@@ -40,7 +40,7 @@ environments.
 ---
 
 ## Proof of Completion
-**Certificate ID:** THM-L39RQI5QRV
-**Completed:* May 15, 2026
-**Duration:** 45 hours 23 minutes
-![Completion Badge](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-L39RQI5QRV.pdf) 
+- **Certificate ID:** THM-L39RQI5QRV
+- **Completed:* May 15, 2026
+- **Duration:** 45 hours 23 minutes
+- ![View Certificate PDF](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-L39RQI5QRV.pdf) 
