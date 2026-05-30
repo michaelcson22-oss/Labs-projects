@@ -12,7 +12,7 @@ hands-on technical skills through labs, certifications, and self-directed
 learning. Former 4-year college baseball athlete — bringing the same discipline, 
 teamwork, and performance-under-pressure mindset to cybersecurity.
 
-Currently pursuing **CompTIA Security+** (expected 2026).
+Currently pursuing **CompTIA A+** (expected 2026).
 
 ---
 
