@@ -29,11 +29,11 @@ Currently pursuing **CompTIA A+** (expected 2026).
 ## Technical Skills
 | Category | Skills |
 |---|---|
-| Languages | Python, Java, SQL |
+| Languages | Python, Java |
 | Operating Systems | Linux, Windows |
-| Networking | TCP/IP, OSI Model, DNS, Active Directory |
+| Networking | TCP/IP, OSI Model, DNS, DHCP, HTTP, HTTPS, UDP|
 | Security | Cryptography basics, SIEM concepts, Incident Response |
-| Tools | PowerShell, Command Line, Excel, Oracle APEX |
+| Tools | PowerShell, CLI, Excel, Oracle APEX, Cisco Packet Tracer, Active Directory |
 
 ---
 
