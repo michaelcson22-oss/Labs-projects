@@ -43,6 +43,7 @@ Currently pursuing **CompTIA A+** (expected 2026).
 ### 🔵 TryHackMe - Cybersecurity 101 Path
 > Completed foundational cybersecurity training covering Linux, networking,
 > offensive and defensive security, web application security, and cryptography.
+> Connected router & Switch to local home devices
 
 📁 [View Notes & Writeups](TryHackMe/Cybersecurity-101/README.md)
 
