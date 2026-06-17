@@ -19,9 +19,10 @@ Currently pursuing **CompTIA A+** (expected 2026).
 ## Certifications & Training
 | Credential | Issuer | Status |
 |---|---|---|
-| Cybersecurity 101 Path | TryHackMe | ✅ Completed |
-| Intro to Computer Science | Cisco | ✅ Completed |
-| CompTIA A+ | CompTIA | In Progress | (2 weeks)
+| Cybersecurity 101 Path | TryHackMe | Completed |
+| Intro to Computer Science | Cisco | Completed |
+| CompTIA A+ | CompTIA | completed |
+| CompTIA Network+ | CompTIA | In progress | 
 | CompTIA Security+ | CompTIA | Next Goal |
 
 ---
