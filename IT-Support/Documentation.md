@@ -72,8 +72,7 @@ Completed tasks include:
 - Remove group memberships
 - Remove VPN access
 - Document account status
-- Collect company equipment
-
+- 
 ---
 
 # Password & Account Management
