@@ -6,13 +6,9 @@
 ---
 
 ## About Me
-Aspiring cybersecurity professional with a Bachelor of Business in Computer 
-Information Systems from Brewton-Parker Christian University. Actively building 
-hands-on technical skills through labs, certifications, and self-directed 
-learning. Former 4-year college baseball athlete — bringing the same discipline, 
-teamwork, and performance-under-pressure mindset to cybersecurity.
+Aspiring IT Support Specialist with hands-on experience supporting Microsoft 365, Active Directory, Windows endpoints, laptop deployments, user onboarding/offboarding, VPN configuration, and endpoint management. This repository contains documentation, home lab projects, PowerShell scripts, networking labs, and technical notes that demonstrate my continued professional development.
 
-Currently pursuing **CompTIA A+** (expected 2026).
+Currently pursuing **CompTIA Network+** (expected).
 
 ---
 
@@ -20,10 +16,12 @@ Currently pursuing **CompTIA A+** (expected 2026).
 | Credential | Issuer | Status |
 |---|---|---|
 | Cybersecurity 101 Path | TryHackMe | Completed |
-| Intro to Computer Science | Cisco | Completed |
-| CompTIA A+ | CompTIA | completed |
+| Intro to Cybersecurity Learning Path | Cisco | Completed |
+| CompTIA A+ | CompTIA | studied |
+| Microsoft MS-900 | Microsoft | studied | 
+| Microsoft MS-102 | Microsoft | Studied |
 | CompTIA Network+ | CompTIA | In progress | 
-| CompTIA Security+ | CompTIA | Next Goal |
+| CompTIA Security+ | CompTIA | Following Completion |
 
 ---
 
@@ -31,10 +29,10 @@ Currently pursuing **CompTIA A+** (expected 2026).
 | Category | Skills |
 |---|---|
 | Languages | Python, Java |
-| Operating Systems | Linux, Windows |
-| Networking | TCP/IP, OSI Model, DNS, DHCP, HTTP, HTTPS, UDP|
-| Security | Cryptography basics, SIEM concepts, Incident Response |
-| Tools | PowerShell, CLI, Excel, Oracle APEX, Cisco Packet Tracer, Active Directory |
+| Operating Systems | Windows 10/11, Windows Server 2022 |
+| Networking | TCP/IP, OSI Model, DNS, DHCP, VPNs, WatchGuard, Timus|
+| Services | Acitve Directory, Microsoft 365, Microsoft Entra ID |
+| Tools | PowerShell, Command Prompt, Excel, Cisco Packet Tracer, KaseyaOne, Datto RMM, IT Glue, Autotask PSA, ZOHO assist, VMware workstation |
 
 ---
 
@@ -45,7 +43,13 @@ Currently pursuing **CompTIA A+** (expected 2026).
 > offensive and defensive security, web application security, and cryptography.
 > Connected router & Switch to local home devices
 
-📁 [View Notes & Writeups](TryHackMe/Cybersecurity-101/README.md)
+### Enterprise Active Directory Lab
+
+### Windows Server Administration
+
+### Microsoft 365 Administration
+
+### Home Network Infrastructure
 
 ---
 
@@ -59,11 +63,10 @@ Management Information Systems
 
 ---
 
-## Goals
-- Earn CompTIA Security+ by end of 2026
-- Land a SOC Analyst or IT Support role to build professional experience
-- Continue working through TryHackMe paths and CTF challenges
-
----
-
+## Currently Learning 
+Microsoft 365 Administration 
+PowerShell Automation
+Windows Server
+Networking
+CompTIA Network+
 *This portfolio is actively updated as I complete new labs and certifications.*
