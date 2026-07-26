@@ -36,7 +36,7 @@ The network supports multiple wired and wireless devices while providing a platf
 
 # Network Topology
 
---
+```
                           Internet
                               │
                        AT&T Fiber (1 Gbps)
@@ -55,7 +55,7 @@ The network supports multiple wired and wireless devices while providing a platf
    │      │               │
 Windows 11 PC         PlayStation 5
                       PlayStation 5
---
+```
 
 ---
 
