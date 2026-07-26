@@ -24,6 +24,7 @@ The goal of this project is to strengthen my scripting skills while improving ef
 | Component | Description |
 |------------|-------------|
 | Operating System | Windows 11 |
+|Command Prompt | 
 | PowerShell Version | PowerShell 7 / Windows PowerShell 5.1 |
 | Editor | Visual Studio Code |
 | Terminal | Windows Terminal |
