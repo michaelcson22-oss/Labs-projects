@@ -12,7 +12,7 @@ Aspiring IT Support Specialist with hands-on experience supporting Microsoft 365
 
 ## Featured Projects
 
-🖥 Enterprise Windows Server & Active Directory Lab
+🖥 Enterprise Windows Server & Active Directory Lab(./Enterprise-Windows-Server-Active-Directory-Lab/)
 - Built a Windows Server 2022 domain with Active Directory, DNS, DHCP, Group Policy, and PowerShell.
 
 ☁ Microsoft 365 Administration Lab
