@@ -8,6 +8,18 @@
 ## About Me
 Aspiring IT Support Specialist with hands-on experience supporting Microsoft 365, Active Directory, Windows endpoints, laptop deployments, user onboarding/offboarding, VPN configuration, and endpoint management. This repository contains documentation, home lab projects, PowerShell scripts, networking labs, and technical notes that demonstrate my continued professional development.
 
+## Featured Projects
+
+🖥 Enterprise Windows Server & Active Directory Lab
+
+☁ Microsoft 365 Administration Lab
+
+🌐 Home Network Infrastructure Lab
+
+💻 PowerShell Administration
+
+🔐 TryHackMe Learning Paths
+
 Currently pursuing **CompTIA Network+** (expected).
 
 ---
@@ -17,9 +29,9 @@ Currently pursuing **CompTIA Network+** (expected).
 |---|---|---|
 | Cybersecurity 101 Path | TryHackMe | Completed |
 | Intro to Cybersecurity Learning Path | Cisco | Completed |
-| CompTIA A+ | CompTIA | studied |
-| Microsoft MS-900 | Microsoft | studied | 
-| Microsoft MS-102 | Microsoft | Studied |
+| CompTIA A+ | CompTIA | Coursework Completed |
+| Microsoft MS-900 | Microsoft | Coursework Completed | 
+| Microsoft MS-102 | Microsoft | Coursework Completed |
 | CompTIA Network+ | CompTIA | In progress | 
 | CompTIA Security+ | CompTIA | Following Completion |
 
