@@ -24,7 +24,7 @@ Aspiring IT Support Specialist with hands-on experience supporting Microsoft 365
 💻 [PowerShell Administration](./PowerShell/)
 - Created scripts for Windows administration and troubleshooting.
 
-🔐 TryHackMe Learning Paths
+🔐 [TryHackMe Learning Paths](./TryHackMe/)
 
 ---
 
