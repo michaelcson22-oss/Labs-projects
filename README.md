@@ -15,13 +15,13 @@ Aspiring IT Support Specialist with hands-on experience supporting Microsoft 365
 🖥 [Enterprise Windows Server & Active Directory Lab](./Enterprise-Windows-Server-Active-Directory-Lab/)
 - Built a Windows Server 2022 domain with Active Directory, DNS, DHCP, Group Policy, and PowerShell.
 
-☁ Microsoft 365 Administration Lab
+☁ [Microsoft 365 Administration Lab](./Microsoft-365-Lab)
 - Practiced user provisioning, Microsoft Entra ID, licensing, authentication, and Microsoft 365 administration.
 
-🌐 Home Network Lab
+🌐 [Home Network Lab](./Home-Network-Lab/)
 - Designed and documented a home network with managed switching, DHCP, DNS, VPN connectivity, and packet analysis.
 
-💻 PowerShell Administration
+💻 [PowerShell Administration](./PowerShell/)
 - Created scripts for Windows administration and troubleshooting.
 
 🔐 TryHackMe Learning Paths
