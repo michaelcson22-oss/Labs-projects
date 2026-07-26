@@ -1,4 +1,4 @@
-# Michael Son - Cybersecurity Portfolio
+# Michael Son - IT Support Portfolio
 
 📍 Newnan, GA | 📧 michaelcson22@gmail.com | 
 🔗 [LinkedIn](https://www.linkedin.com/in/michael-son-9b8a013a3/) | 🔗 [TryHackMe](https://tryhackme.com/p/michaelcson22)
