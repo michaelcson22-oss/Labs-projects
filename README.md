@@ -10,17 +10,21 @@ Aspiring IT Support Specialist with hands-on experience supporting Microsoft 365
 
 ## Featured Projects
 
+## Featured Projects
+
 🖥 Enterprise Windows Server & Active Directory Lab
+- Built a Windows Server 2022 domain with Active Directory, DNS, DHCP, Group Policy, and PowerShell.
 
 ☁ Microsoft 365 Administration Lab
+- Practiced user provisioning, Microsoft Entra ID, licensing, authentication, and Microsoft 365 administration.
 
-🌐 Home Network Infrastructure Lab
+🌐 Home Network Lab
+- Designed and documented a home network with managed switching, DHCP, DNS, VPN connectivity, and packet analysis.
 
 💻 PowerShell Administration
+- Created scripts for Windows administration and troubleshooting.
 
 🔐 TryHackMe Learning Paths
-
-Currently pursuing **CompTIA Network+** (expected).
 
 ---
 
@@ -55,14 +59,6 @@ Currently pursuing **CompTIA Network+** (expected).
 > offensive and defensive security, web application security, and cryptography.
 > Connected router & Switch to local home devices
 
-### Enterprise Active Directory Lab
-
-### Windows Server Administration
-
-### Microsoft 365 Administration
-
-### Home Network Infrastructure
-
 ---
 
 ## Education
@@ -81,4 +77,5 @@ PowerShell Automation
 Windows Server
 Networking
 CompTIA Network+
+
 *This portfolio is actively updated as I complete new labs and certifications.*
