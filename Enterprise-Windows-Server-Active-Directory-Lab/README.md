@@ -40,7 +40,7 @@ This lab simulates many of the responsibilities of an IT Support Technician or S
 
 # Network Topology
 
----
+```
 
 Internet
      │
@@ -59,7 +59,7 @@ Windows Server    Windows 11 Client
      ├── DNS
      ├── DHCP
      └── Group Policy
-
+```
 ---
 
 # Technologies Used
